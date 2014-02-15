@@ -1,12 +1,14 @@
-mPasw
-=====
+##What is?
+Encryption class with php.
 
-encryption class (php)
+##Use
 
+Easy to use.
 
-use
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .php
 <?php
   require "mpasw.class.php";
   echo mpasw::encrypting('yeah!');
-?>
+  #return 2ddab15be031d7f1a1f2dcdf18bb7d68
+?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
